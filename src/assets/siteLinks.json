@@ -10,23 +10,28 @@
     "link": "https://netdisk.050905.xyz/"
   },
   {
+    "icon": "CompactDisc",
+    "name": "阅读",
+    "link": "https://reader3.050905.xyz/"
+  },
+  {
+    "icon": "Compass",
+    "name": "rsshub",
+    "link": "https://rsshub.050905.xyz/"
+  },
+  {
     "icon": "Book",
     "name": "网址集",
     "link": "https://one.050905.xyz/"
   },
   {
     "icon": "Fire",
-    "name": "RSSHub",
-    "link": "https://rsshub.050905.xyz/"
-  },
-  {
-    "icon": "Fire",
     "name": "图床",
     "link": "https://lsky.050905.xyz/"
   },
-    {
-    "icon": "Fire",
-    "name": "reader3",
-    "link": "https://reader3.050905.xyz/"
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://uptime.050905.xyz/"
   }
 ]
