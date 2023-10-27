@@ -2,31 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.050905.xyz/"
+    "link": "http://blog.050905.xyz/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://netdisk.050905.xyz/"
+    "link": "http://netdisk.050905.xyz/"
   },
   {
     "icon": "CompactDisc",
     "name": "阅读",
-    "link": "https://reader3.050905.xyz/"
+    "link": "http://reader3.050905.xyz/"
   },
   {
     "icon": "Compass",
     "name": "rsshub",
-    "link": "https://rsshub.050905.xyz/"
+    "link": "http://rsshub.050905.xyz/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://one.050905.xyz/"
+    "link": "http://one.050905.xyz/"
   },
   {
     "icon": "Fire",
     "name": "图床",
-    "link": "https://lsky.050905.xyz/"
+    "link": "http://lsky.050905.xyz/"
   }
 ]
