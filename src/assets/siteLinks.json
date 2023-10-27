@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://blog.050905.xyz/"
+    "link": "https://blog.050905.xyz/"
   },
   {
     "icon": "Cloud",
@@ -22,11 +22,11 @@
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "http://one.050905.xyz/"
+    "link": "https://one.050905.xyz/"
   },
   {
     "icon": "Fire",
     "name": "图床",
-    "link": "http://lsky.050905.xyz/"
+    "link": "https://img.050905.xyz/"
   }
 ]
